@@ -14,3 +14,6 @@ https://venerable-chimera-bd317c.netlify.app/
 * **Data Handling:** Managed a mock database of objects to dynamically generate UI components.
 * **DOM Interaction:** Used event listeners to capture user input from radio buttons and trigger real-time UI updates.
 * **UX Focus:** Implemented a "Single Selection" logic for a cleaner user experience.
+
+## Preview
+![App Screenshot](screenshot.png)
